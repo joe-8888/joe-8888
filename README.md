@@ -2,7 +2,7 @@
 - 👀 I’m interested in:     Health Informatics, data and apps, from population health analysis to apps for wearables.
 - 💞️ I’m looking to collaborate on       anything that relates to the above!
 - 🌱 Currently learning       Python and advanced SQL.
-- 📫 Reach me via Github or rmhijms@ucl.ac.uk
+- 📫 Reach me via Github
 
 
 
