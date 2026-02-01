@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @joe-8888
-- 👀 I’m interested in:     Health Informatics, data and apps, from population health analysis to apps for wearables.
-- 💞️ I’m looking to collaborate on       anything that relates to the above!
-- 🌱 Currently learning       Python and advanced SQL.
-- 📫 Reach me via Github
+- 👀 I’m currently learning/interested in: dbt, airflow, mesh radio networks.
 
 
 
